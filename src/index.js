@@ -58,7 +58,7 @@ class Counters extends React.Component {
         <button
           onClick={() => {
             this.setState(prevState => ({
-              nbOfCounter: prevState.nbOfCounter + 1
+              nbOfcounter: prevState.nbOfCounter + 1
             }));
           }}
         >
