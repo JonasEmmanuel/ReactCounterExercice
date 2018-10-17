@@ -1,2 +1,0 @@
-# ReactCounterExercice
-Created with CodeSandbox
